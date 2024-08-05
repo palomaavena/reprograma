@@ -19,7 +19,7 @@ Material de estudos do Curso de Análise de dados com Python - Turma on35
 
 # Cronograma de aulas 
 
-- [x] **Semana 01 - Conceitos iniciais**
+- [x] **Semana 01 - Conceitos iniciais** (on35/material/Conceitos Iniciais & GIT.md)
 - [x] **Semana 02 - Variáveis, tipos, operadores e funções**
 - [ ] **Semana 03**
 - [ ] **Semana 04**
