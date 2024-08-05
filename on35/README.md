@@ -19,8 +19,8 @@ Material de estudos do Curso de Análise de dados com Python - Turma on35
 
 # Cronograma de aulas 
 
-- [x] **Conceitos iniciais**
-- [x] **xxxxxxx**
+- [x] **Semana 01 - Conceitos iniciais** (#https://github.com/palomaavena/reprograma/blob/main/on35/Conceitos%20Iniciais%20%26%20GIT.md)
+- [x] **Semana 02 -**
 - [ ] xxxxx
 - [ ] xxxxx
 - [ ] xxxx
