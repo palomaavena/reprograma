@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[on35/assets/reprograma-fundos-claros.png]" alt="logo reprograma" width="500"> 
+  <img src=["on35/assets/reprograma-fundos-claros.png"] alt="logo reprograma" width="500"> 
 </h1>
 
 # Conceitos Iniciais & GIT
