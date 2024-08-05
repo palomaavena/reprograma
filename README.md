@@ -10,6 +10,6 @@ Material de estudos
 
 # Organização pastas
 
-* Análise de dados com Python: [on35](https://github.com/palomaavena/reprograma/tree/e606acec900df2ed3722e83acb4a7b3d121fb0aa/on35)
+* Análise de dados com Python: [on35]
   
   
