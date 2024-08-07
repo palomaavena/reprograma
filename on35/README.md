@@ -20,11 +20,11 @@ Material de estudos do Curso de Análise de dados com Python - Turma on35
 
 # Cronograma de aulas 
 
-- [x] **Semana 01 - Conceitos iniciais** [on35/material/Conceitos Iniciais & GIT.md](https://github.com/palomaavena/reprograma/blob/main/on35/material/S01_Conceitos%20Iniciais%20%26%20GIT.md)
-- [x] **Semana 02 - Variáveis, tipos, operadores e funções**
-- [ ] **Semana 03**
-- [ ] **Semana 04**
-- [ ] **Semana 05**
+- [x] **Semana 01** [Conceitos Iniciais & GIT](https://github.com/palomaavena/reprograma/blob/main/on35/material/S01_Conceitos%20Iniciais%20%26%20GIT.md)
+- [x] **Semana 02** [Lógica I](https://github.com/palomaavena/reprograma/blob/main/on35/material/S02_L%C3%B3gica%20I.md)
+- [ ] **Semana 03** [Lógica II](https://github.com/palomaavena/reprograma/blob/main/on35/material/S03_L%C3%B3gica%20II.md)
+- [ ] **Semana 04** [Lógica III](https://github.com/palomaavena/reprograma/blob/main/on35/material/S04_L%C3%B3gica%20III.md)
+- [ ] **Semana 05** 
 - [ ] **Semana 06**
 - [ ] **Semana 07**
 - [ ] **Semana 08**
