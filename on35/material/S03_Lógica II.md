@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+</h1>
+
 # Lógica II
 
 On35 | Semana 3 | 2024 | Agnes Ignácio
