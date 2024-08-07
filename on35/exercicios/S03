@@ -1,0 +1,32 @@
+# Exercícios Lógica II - Semana 03
+
+# Exercício de Sala 🏫  
+
+1. Faça um programa que peça para o usuário inserir uma idade e mostre na tela se ele é maior de idade ou não.
+
+2. Faça um programa que mostre na tela uma pergunta de múltipla escolha, e que, a partir da resposta do usuário, mostre na tela se ele acertou ou não.
+
+3. Faça um programa que peça para o usuário inserir um nome, pergunte se ele gosta do nome e, em ambos os possíveis casos de resposta (Sim ou Não), mostre uma mensagem de sua escolha na tela.
+
+4. Faça um programa que pergunte ao usuário se ele possui irmãos, e que, caso a resposta seja “sim”, pergunte quantos e mostre na tela uma mensagem de sua escolha. No caso de o usuário responder “não”, pergunte se ele gostaria de ter e mostre na tela uma mensagem de sua escolha.
+
+5. Faça um programa que permita o usuário escolher entre três opções de bebidas e mostre na tela a bebida escolhida.
+
+# Exercício de Casa 🏠 
+
+## Exercício: grupo 1
+
+* Escreva um programa que, dados dois numeros inteiros, mostre na tela o maior deles, assim como a diferença existente entre ambos.
+* Faça um programa que receba dois numeros e mostre o maior. Se por acaso, os dois números forem iguais, imprima a mensagem "Números iguais".
+* Escreva um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana correspondente a este número. Isto é, domingo se 1, segunda-feira se 2, e assim por diante.
+
+## Exercício: grupo 2
+
+* Faça um programa que mostre ao usuario um menu com 4 opções de operações matemáticas (as básicas, por exemplo). O usuário escolhe uma das opçõoes e o seu programa então pede dois valores numéricos e realiza a operação, mostrando o resultado.
+* Faça um programa para verificar se um determinado número inteiro e divisível por 3 ou 5, mas não simultaneamente pelos dois.
+* Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou nao se aposentar. As condições para aposentadoria são:
+  • Ter pelo menos 65 anos,
+  • Ou ter trabalhado pelo menos 30 anos,
+  • Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos
+
+
