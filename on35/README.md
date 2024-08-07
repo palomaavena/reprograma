@@ -24,7 +24,7 @@ Material de estudos do Curso de Análise de dados com Python - Turma on35
 - [x] **Semana 02** [Lógica I](https://github.com/palomaavena/reprograma/blob/main/on35/material/S02_L%C3%B3gica%20I.md)
 - [ ] **Semana 03** [Lógica II](https://github.com/palomaavena/reprograma/blob/main/on35/material/S03_L%C3%B3gica%20II.md)
 - [ ] **Semana 04** [Lógica III](https://github.com/palomaavena/reprograma/blob/main/on35/material/S04_L%C3%B3gica%20III.md)
-- [ ] **Semana 05** 
+- [ ] **Semana 05** https://github.com/palomaavena/on35-python-s05-projeto-guiado-I/tree/main
 - [ ] **Semana 06**
 - [ ] **Semana 07**
 - [ ] **Semana 08**
