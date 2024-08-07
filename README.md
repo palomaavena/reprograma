@@ -8,7 +8,7 @@ Material de estudos
 	🚧  Em desenvolvimento . . .
 </h4>
 
-# Organização pastas
+# Pastas
 
 * Análise de dados com Python: [on35]
   
