@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="/palomaavena/reprograma/on35/raw/main/assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+  <img src="[/palomaavena/reprograma/on35/raw/main/assets/reprograma-fundos-claros.png](https://github.com/palomaavena/reprograma/blob/main/on35/assets/reprograma-fundos-claros.png)" alt="logo reprograma" width="500">
 </h1>
-
-<img src="/palomaavena/on35-python-s01-conceitos-iniciais/raw/main/assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500" style="max-width: 100%;">
 
 # Conceitos Iniciais & GIT
 
