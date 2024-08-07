@@ -2,6 +2,8 @@
   <img src="/palomaavena/reprograma/on35/assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
+<img src="/palomaavena/on35-python-s01-conceitos-iniciais/raw/main/assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500" style="max-width: 100%;">
+
 # Conceitos Iniciais & GIT
 
 ON35 | Semana 01 | 2024 | Agnes Ignácio
