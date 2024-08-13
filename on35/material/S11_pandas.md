@@ -103,7 +103,7 @@ Desenvolvido com :purple_heart:
 
 .
 
-## Pandas
+# Pandas
 
 ### 1. `read_csv()`
 A função `read_csv()` é usada para ler um arquivo CSV e convertê-lo em um DataFrame do pandas.
@@ -314,7 +314,31 @@ df['Coluna1_normalizada'] = (df['Coluna1'] - df['Coluna1'].min()) / (df['Coluna1
 df['Coluna1_zscore'] = (df['Coluna1'] - df['Coluna1'].mean()) / df['Coluna1'].std()
 ```
 
-## Matplotlib
+### 18. Outros
+
+```python
+data = {
+    'A': [1, 2, 3],
+    'B': [4, 5, 6],
+    'C': [7, 8, 9]
+}
+```
+
+```python
+df_data = pd.DataFrame(data)
+```
+
+```python
+df_data['A+B'] = df_data['A'] * df_data['B']
+```
+  
+```python
+df_data.head()
+```
+
+
+
+# Matplotlib
 
 ```python
 pip install matplotlib
@@ -371,3 +395,4 @@ plt.show()
 ```python
 
 ```
+
