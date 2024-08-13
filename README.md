@@ -10,6 +10,6 @@ Material de estudos
 
 # Pastas
 
-* Análise de dados com Python: [on35]
+* Análise de dados com Python: [Turma on35](https://github.com/palomaavena/reprograma/tree/main/on35)
   
   
