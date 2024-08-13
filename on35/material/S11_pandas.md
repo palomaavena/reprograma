@@ -121,9 +121,14 @@ Exibe as primeiras linhas do DataFrame. Por padrão, mostra as 5 primeiras linha
 ```python
 # Exibe as 5 primeiras linhas
 print(df.head())
+#ou
+df.head()
 
 # Exibe as 10 primeiras linhas
+
 print(df.head(10))
+#ou
+df.head(10)
 ```
 
 ### 3. `tail()`
@@ -168,6 +173,9 @@ print(df.dtypes)
 ```python
 # Seleciona 5 linhas aleatórias
 amostra = df.sample(n=5)
+#ou
+
+df.sample(n=5)
 
 # Reseta o índice do DataFrame amostrado
 amostra_resetada = amostra.reset_index(drop=True)
@@ -208,6 +216,13 @@ print(coluna1)
 
 ### 11. `min()`, `max()`, `sum()` e `mean()`
 Funções para calcular o valor mínimo, máximo, soma e média, respectivamente.
+Ex: 
+coluna_temperatura = df['TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)']
+coluna_temperatura = pd.to_numeric(df('TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)'), errors='coerce')
+coluna_temperatura.min()
+coluna_temparatura.max()
+coluna_temperatura.sum()
+coluna_temperatura.mean()
 
 ```python
 # Valor mínimo
@@ -227,6 +242,7 @@ print(f"Mínimo: {minimo}, Máximo: {maximo}, Soma: {soma}, Média: {media}")
 
 ### 12. `isnull()`
 Identifica valores nulos no DataFrame, retornando um DataFrame booleano.
+df.isnull().sum()
 
 ```python
 # Verifica valores nulos
@@ -288,6 +304,7 @@ df_sem_duplicatas_colunas = df.drop_duplicates(subset=['Coluna1', 'Coluna2'])
 
 ### 17. Normalização
 A normalização é o processo de ajustar os valores das colunas para um mesmo intervalo, geralmente entre 0 e 1.
+df['Coluna1_normalizada'] = (df['UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)'] - df['UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)'].min()) / (df['UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)'].max() - df['UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)'].min())
 
 ```python
 # Normaliza os valores de uma coluna para o intervalo [0, 1]
@@ -297,3 +314,60 @@ df['Coluna1_normalizada'] = (df['Coluna1'] - df['Coluna1'].min()) / (df['Coluna1
 df['Coluna1_zscore'] = (df['Coluna1'] - df['Coluna1'].mean()) / df['Coluna1'].std()
 ```
 
+## Matplotlib
+
+```python
+pip install matplotlib
+```
+
+```python
+import matplotlib.pyplot as plt
+```
+
+```python
+df.head()
+```
+
+```python
+df_20 = df.head(20)
+```
+
+```python
+plt.figure(figsize=(12, 6))
+plt.plot(df_20['Hora UTC'], df_20['UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)'], marker='o', linestyle='-', color='g')
+plt.xlabel('Hora UTC')
+plt.ylabel('Umidade (%)')
+plt.title('Umidade ao Longo do Tempo')
+plt.xticks(rotation=90)
+plt.tight_layout()
+plt.show()
+```
+
+```python
+# Gráfico de Dispersão
+plt.figure(figsize=(12, 6))
+plt.scatter(df_20['TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)'], df_20['UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)'], color='y')
+plt.xlabel('Temperatura (°C)')
+plt.ylabel('Umidade (%)')
+plt.title('Temperatura x Umidade')
+plt.tight_layout()
+plt.show()
+```
+
+
+```python
+plt.figure(figsize=(12, 6))
+plt.bar(df_20['Hora UTC'], df_20['PRECIPITAÇÃO TOTAL, HORÁRIO (mm)'], color='r')
+plt.xlabel('Hora UTC')
+plt.ylabel('Precipitação (mm)')
+plt.title('Precipitação ao Longo do Tempo')
+plt.xticks(rotation=90)
+plt.tight_layout()
+plt.show()
+```
+
+
+
+```python
+
+```
