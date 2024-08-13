@@ -269,6 +269,10 @@ df_substituido = df.replace(0, np.nan)
 
 # Substitui um valor específico em uma coluna
 df['Coluna1'] = df['Coluna1'].replace('ValorAntigo', 'ValorNovo')
+
+# Substitui virgula por ponto
+df_amostra['PRECIPITAÇÃO TOTAL, HORÁRIO (mm)'] = df_amostra['PRECIPITAÇÃO TOTAL, HORÁRIO (mm)'].replace(',', '.', regex=True)
+
 ```
 
 ### 16. `drop_duplicates()`
