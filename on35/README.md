@@ -27,7 +27,7 @@ Material de estudos do Curso de Análise de dados com Python - Turma on35
 - [x] **Semana 05** [Projeto Guiado I](https://github.com/palomaavena/on35-python-s05-projeto-guiado-I/tree/main)
 - [x] **Semana 06** [Arquivos](https://github.com/palomaavena/reprograma/blob/main/on35/material/S06_arquivos.md)
 - [x] **Semana 07** [Banco de dados I](https://github.com/palomaavena/reprograma/blob/main/on35/material/S07_banco_de_dados_I.md)
-- [x] **Semana 08** [Banco de dados II]()
+- [x] **Semana 08** [Banco de dados II](https://github.com/palomaavena/reprograma/blob/main/on35/material/S08_banco_de_dados_II.md)
 - [x] **Semana 09** [Estatística I]()
 - [x] **Semana 10** [Estatística II]()
 - [x] **Semana 11** [Pandas e Numpy I](https://github.com/palomaavena/reprograma/blob/main/on35/material/S11_pandas.md)
