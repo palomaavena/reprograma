@@ -1,6 +1,6 @@
 # {reprograma}
 
-Um ambiente acolhedor e inclusivo, onde as mulheres podem se sentir à vontade para aprender, colaborar e crescer profissionalmente, fazendo parte de uma comunidade de apoio, incentivo e networking. 
+Bootcamp com um ambiente acolhedor e inclusivo, onde as mulheres podem se sentir à vontade para aprender, colaborar e crescer profissionalmente, fazendo parte de uma comunidade de apoio, incentivo e networking. 
 
 # Sobre 
 
