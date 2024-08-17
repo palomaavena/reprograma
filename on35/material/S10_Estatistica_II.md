@@ -25,7 +25,7 @@ Antes de começar, vamos organizar nosso setup.
 
 ## Índice
 
-Todo o contéudo está na pasta **[material](https://github.com/reprograma/on35-python-s10-estatistica-II/tree/main/material)**:
+Todo o contéudo está na pasta **[material](https://github.com/palomaavena/on35-python-s10-estatistica-II/blob/main/material/aula_s10.ipynb)**:
 
 1. **Testes de Hipóteses**
 
