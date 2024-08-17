@@ -22,17 +22,17 @@ Material de estudos do Curso de Análise de dados com Python - Turma on35
 
 - [x] **Semana 01** [Conceitos Iniciais & GIT](https://github.com/palomaavena/reprograma/blob/main/on35/material/S01_Conceitos%20Iniciais%20%26%20GIT.md)
 - [x] **Semana 02** [Lógica I](https://github.com/palomaavena/reprograma/blob/main/on35/material/S02_L%C3%B3gica%20I.md)
-- [ ] **Semana 03** [Lógica II](https://github.com/palomaavena/reprograma/blob/main/on35/material/S03_L%C3%B3gica%20II.md)
-- [ ] **Semana 04** [Lógica III](https://github.com/palomaavena/reprograma/blob/main/on35/material/S04_L%C3%B3gica%20III.md)
-- [ ] **Semana 05** [Projeto Guiado I](https://github.com/palomaavena/on35-python-s05-projeto-guiado-I/tree/main)
-- [ ] **Semana 06**
-- [ ] **Semana 07**
-- [ ] **Semana 08**
-- [ ] **Semana 09**
-- [ ] **Semana 10**
-- [ ] **Semana 11** [Pandas e Numpy I](https://github.com/palomaavena/reprograma/blob/main/on35/material/S11_pandas.md)
-- [ ] **Semana 12** [Pandas e Numpy_II](https://github.com/palomaavena/reprograma/blob/main/on35/material/S12_numpy.md)
-- [ ] **Semana 13**
+- [x] **Semana 03** [Lógica II](https://github.com/palomaavena/reprograma/blob/main/on35/material/S03_L%C3%B3gica%20II.md)
+- [x] **Semana 04** [Lógica III](https://github.com/palomaavena/reprograma/blob/main/on35/material/S04_L%C3%B3gica%20III.md)
+- [x] **Semana 05** [Projeto Guiado I](https://github.com/palomaavena/on35-python-s05-projeto-guiado-I/tree/main)
+- [x] **Semana 06** [Arquivos](https://github.com/palomaavena/reprograma/blob/main/on35/material/S06_arquivos.md)
+- [x] **Semana 07** 
+- [x] **Semana 08**
+- [x] **Semana 09** [Estatística I]()
+- [x] **Semana 10** [Estatística II]()
+- [x] **Semana 11** [Pandas e Numpy I](https://github.com/palomaavena/reprograma/blob/main/on35/material/S11_pandas.md)
+- [x] **Semana 12** [Pandas e Numpy_II](https://github.com/palomaavena/reprograma/blob/main/on35/material/S12_numpy.md)
+- [ ] **Semana 13** [Projeto Guiado II]()
 - [ ] **Semana 14**
 - [ ] **Semana 15**
 - [ ] **Semana 16**
