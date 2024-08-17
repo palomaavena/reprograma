@@ -31,7 +31,7 @@ Material de estudos do Curso de Análise de dados com Python - Turma on35
 - [ ] **Semana 09**
 - [ ] **Semana 10**
 - [ ] **Semana 11** [Pandas e Numpy I](https://github.com/palomaavena/reprograma/blob/main/on35/material/S11_pandas.md)
-- [ ] **Semana 12**
+- [ ] **Semana 12** [Pandas e Numpy_II](https://github.com/palomaavena/reprograma/blob/main/on35/material/S12_numpy.md)
 - [ ] **Semana 13**
 - [ ] **Semana 14**
 - [ ] **Semana 15**
