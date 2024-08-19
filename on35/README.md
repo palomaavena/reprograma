@@ -16,7 +16,7 @@ Material de estudos do Curso de Análise de dados com Python - Turma on35
 * [Sumário](#índice/sumário)
 * [Cronograma de aulas](#cronograma-de-aulas)
 * [Repositórios](#repositorios-forkados)
-* 
+  
 
 # Cronograma de aulas 
 
