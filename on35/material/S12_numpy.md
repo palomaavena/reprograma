@@ -501,7 +501,11 @@ Pandas permite exportar dados em vários formatos:
 
 **Quarto Conjunto:** Um conjunto de dados em que a linha de regressão é completamente determinada por um único ponto fora da curva, enquanto os outros formam uma linha vertical.
 
+# Diferença entre pandas e numpy
 
+numpy trabalha com arrays e matriz  
+
+pandas trabalha com dataframe e series
 
 
 <p align="center">
